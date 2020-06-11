@@ -1,0 +1,23 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/Detectors/ITSMFT/common/reconstruction/include/ITSMFTReconstruction/LookUp.h" name="/home/travis/build/AliceO2Group/AliceO2/Detectors/ITSMFT/common/reconstruction/include/ITSMFTReconstruction/LookUp.h">
+<area shape="rect" id="node3" href="$d8/ddb/ClusterTopology_8h.html" title="Definition of the ClusterTopology class. " alt="" coords="685,139,888,180"/>
+<area shape="rect" id="node51" href="$d1/d08/TopologyDictionary_8h.html" title="Definition of the ClusterTopology class. " alt="" coords="1201,139,1415,180"/>
+<area shape="rect" id="node4" href="$de/dc1/ClusterPattern_8h.html" title="DataFormatsITSMFT/Cluster\lPattern.h" alt="" coords="685,228,888,269"/>
+<area shape="rect" id="node8" href="$d1/d62/DataFormats_2Detectors_2ITSMFT_2common_2include_2DataFormatsITSMFT_2Cluster_8h.html" title="DataFormatsITSMFT/Cluster.h" alt="" coords="680,317,893,344"/>
+<area shape="rect" id="node9" href="$d4/de2/BaseCluster_8h.html" title="ReconstructionDataFormats\l/BaseCluster.h" alt="" coords="737,392,940,433"/>
+<area shape="rect" id="node14" href="$d4/d20/DetMatrixCache_8h.html" title="DetectorsCommonDataFormats\l/DetMatrixCache.h" alt="" coords="925,481,1153,523"/>
+<area shape="rect" id="node41" href="$dd/d76/Cartesian3D_8h.html" title="MathUtils/Cartesian3D.h" alt="" coords="1743,578,1923,605"/>
+<area shape="rect" id="node15" href="$df/d5b/GPUCommonLogger_8h.html" title="GPUCommonLogger.h" alt="" coords="878,578,1042,605"/>
+<area shape="rect" id="node18" href="$d2/d45/GPUCommonRtypes_8h.html" title="GPUCommonRtypes.h" alt="" coords="1066,578,1233,605"/>
+<area shape="rect" id="node20" href="$d6/d31/DetID_8h.html" title="DetectorsCommonDataFormats\l/DetID.h" alt="" coords="595,571,823,612"/>
+<area shape="rect" id="node26" href="$d9/d52/Common_2MathUtils_2include_2MathUtils_2Utils_8h.html" title="MathUtils/Utils.h" alt="" coords="336,667,467,694"/>
+<area shape="rect" id="node34" href="$dc/dcd/DataHeader_8h.html" title="Headers/DataHeader.h" alt="" coords="831,667,1001,694"/>
+<area shape="rect" id="node28" href="$df/d21/GPUCommonDef_8h.html" title="GPUCommonDef.h" alt="" coords="465,839,607,865"/>
+<area shape="rect" id="node31" href="$d6/da2/GPUCommonMath_8h.html" title="GPUCommonMath.h" alt="" coords="470,757,623,783"/>
+<area shape="rect" id="node33" href="$d6/d84/MathConstants_8h.html" title="useful math constants " alt="" coords="85,757,344,783"/>
+<area shape="rect" id="node29" href="$d5/d93/GPUCommonDefSettings_8h.html" title="GPUCommonDefSettings.h" alt="" coords="335,913,532,940"/>
+<area shape="rect" id="node30" href="$da/d5a/GPUCommonDefAPI_8h.html" title="GPUCommonDefAPI.h" alt="" coords="556,913,721,940"/>
+<area shape="rect" id="node39" href="$d7/df8/Types_8h.html" title="MemoryResources/Types.h" alt="" coords="923,757,1117,783"/>
+<area shape="rect" id="node48" href="$d2/dd0/Cartesian2D_8h.html" title="MathUtils/Cartesian2D.h" alt="" coords="2903,667,3083,694"/>
+<area shape="rect" id="node52" href="$dd/da4/Logger_8h.html" title="Framework/Logger.h" alt="" coords="913,235,1066,262"/>
+<area shape="rect" id="node55" href="$df/de4/CompCluster_8h.html" title="Definition of the ITSMFT compact cluster. " alt="" coords="1497,399,1748,426"/>
+</map>

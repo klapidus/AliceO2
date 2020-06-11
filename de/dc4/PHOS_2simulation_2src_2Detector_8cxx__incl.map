@@ -1,0 +1,30 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/Detectors/PHOS/simulation/src/Detector.cxx" name="/home/travis/build/AliceO2Group/AliceO2/Detectors/PHOS/simulation/src/Detector.cxx">
+<area shape="rect" id="node12" href="$d7/d7f/PHOS_2base_2include_2PHOSBase_2Geometry_8h.html" title="PHOSBase/Geometry.h" alt="" coords="1528,131,1697,158"/>
+<area shape="rect" id="node16" href="$db/dad/Detectors_2PHOS_2base_2include_2PHOSBase_2Hit_8h.html" title="PHOSBase/Hit.h" alt="" coords="989,221,1114,247"/>
+<area shape="rect" id="node37" href="$d4/dd8/PHOS_2simulation_2include_2PHOSSimulation_2Detector_8h.html" title="PHOSSimulation/Detector.h" alt="" coords="1113,131,1312,158"/>
+<area shape="rect" id="node51" href="$d2/dc2/PHOS_2simulation_2include_2PHOSSimulation_2GeometryParams_8h.html" title="PHOSSimulation/GeometryParams.h" alt="" coords="1853,131,2111,158"/>
+<area shape="rect" id="node53" href="$db/dcc/Detectors_2Base_2include_2DetectorsBase_2GeometryManager_8h.html" title="DetectorsBase/GeometryManager.h" alt="" coords="2131,221,2385,247"/>
+<area shape="rect" id="node78" href="$d4/d03/simulation_2include_2SimulationDataFormat_2Stack_8h.html" title="SimulationDataFormat\l/Stack.h" alt="" coords="3076,124,3245,165"/>
+<area shape="rect" id="node17" href="$d4/d25/BaseHits_8h.html" title="SimulationDataFormat\l/BaseHits.h" alt="" coords="1005,303,1175,344"/>
+<area shape="rect" id="node30" href="$d0/d91/ShmAllocator_8h.html" title="CommonUtils/ShmAllocator.h" alt="" coords="1342,392,1555,419"/>
+<area shape="rect" id="node18" href="$dd/d76/Cartesian3D_8h.html" title="MathUtils/Cartesian3D.h" alt="" coords="1580,392,1760,419"/>
+<area shape="rect" id="node27" href="$d2/dd0/Cartesian2D_8h.html" title="MathUtils/Cartesian2D.h" alt="" coords="1580,474,1760,501"/>
+<area shape="rect" id="node31" href="$de/d61/ShmManager_8h.html" title="CommonUtils/ShmManager.h" alt="" coords="322,474,533,501"/>
+<area shape="rect" id="node38" href="$d1/d3a/Base_2include_2DetectorsBase_2Detector_8h.html" title="DetectorsBase/Detector.h" alt="" coords="741,310,929,337"/>
+<area shape="rect" id="node43" href="$d0/d9a/MaterialManager_8h.html" title="DetectorsBase/MaterialManager.h" alt="" coords="643,392,884,419"/>
+<area shape="rect" id="node58" href="$d6/d31/DetID_8h.html" title="DetectorsCommonDataFormats\l/DetID.h" alt="" coords="3492,303,3720,344"/>
+<area shape="rect" id="node76" href="$db/dba/MatCell_8h.html" title="Declarations for material properties of the cell (voxel) " alt="" coords="2167,310,2349,337"/>
+<area shape="rect" id="node62" href="$d9/d52/Common_2MathUtils_2include_2MathUtils_2Utils_8h.html" title="MathUtils/Utils.h" alt="" coords="4195,392,4326,419"/>
+<area shape="rect" id="node69" href="$dc/dcd/DataHeader_8h.html" title="Headers/DataHeader.h" alt="" coords="3743,392,3912,419"/>
+<area shape="rect" id="node64" href="$df/d21/GPUCommonDef_8h.html" title="GPUCommonDef.h" alt="" coords="4047,563,4189,590"/>
+<area shape="rect" id="node67" href="$d6/da2/GPUCommonMath_8h.html" title="GPUCommonMath.h" alt="" coords="4437,474,4591,501"/>
+<area shape="rect" id="node68" href="$d6/d84/MathConstants_8h.html" title="useful math constants " alt="" coords="4155,474,4414,501"/>
+<area shape="rect" id="node65" href="$d5/d93/GPUCommonDefSettings_8h.html" title="GPUCommonDefSettings.h" alt="" coords="3917,645,4114,672"/>
+<area shape="rect" id="node66" href="$da/d5a/GPUCommonDefAPI_8h.html" title="GPUCommonDefAPI.h" alt="" coords="4138,645,4303,672"/>
+<area shape="rect" id="node73" href="$d7/df8/Types_8h.html" title="MemoryResources/Types.h" alt="" coords="3577,474,3771,501"/>
+<area shape="rect" id="node77" href="$d2/d45/GPUCommonRtypes_8h.html" title="GPUCommonRtypes.h" alt="" coords="2456,392,2623,419"/>
+<area shape="rect" id="node80" href="$d2/de2/MCTrack_8h.html" title="Definition of the MCTrack class. " alt="" coords="3664,213,3833,255"/>
+<area shape="rect" id="node87" href="$db/d14/MCTruthContainer_8h.html" title="Definition of a container to keep Monte Carlo truth external to simulation objects. " alt="" coords="3247,303,3416,344"/>
+<area shape="rect" id="node89" href="$d5/dbe/TrackReference_8h.html" title="SimulationDataFormat\l/TrackReference.h" alt="" coords="2693,213,2863,255"/>
+<area shape="rect" id="node91" href="$d6/d9d/MCEventStats_8h.html" title="SimulationDataFormat\l/MCEventStats.h" alt="" coords="2939,213,3108,255"/>
+</map>

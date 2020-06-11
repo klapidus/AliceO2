@@ -1,0 +1,8 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/Utilities/rANS/include/rANS/Encoder.h" name="/home/travis/build/AliceO2Group/AliceO2/Utilities/rANS/include/rANS/Encoder.h">
+<area shape="rect" id="node5" href="$d8/dd9/SymbolTable_8h.html" title="Container for information needed to encode/decode a symbol of the alphabet. " alt="" coords="393,124,511,151"/>
+<area shape="rect" id="node13" href="$d4/da1/helper_8h.html" title="various helper functions " alt="" coords="719,273,793,300"/>
+<area shape="rect" id="node16" href="$d2/d53/EncoderSymbol_8h.html" title="Structure containing all relevant information to encode a symbol. " alt="" coords="751,199,886,225"/>
+<area shape="rect" id="node18" href="$d5/d7a/Coder_8h.html" title="Stateless class for coding and decoding symbols using rANS. " alt="" coords="783,124,854,151"/>
+<area shape="rect" id="node7" href="$d0/d51/SymbolStatistics_8h.html" title="Structure to depict the distribution of symbols in the source message. " alt="" coords="381,199,523,225"/>
+<area shape="rect" id="node19" href="$d7/d99/DecoderSymbol_8h.html" title="Structure containing all relevant information for decoding a rANS encoded symbol. ..." alt="" coords="1013,199,1150,225"/>
+</map>

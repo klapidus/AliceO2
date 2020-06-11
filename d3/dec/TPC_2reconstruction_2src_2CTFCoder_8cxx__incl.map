@@ -1,0 +1,28 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/Detectors/TPC/reconstruction/src/CTFCoder.cxx" name="/home/travis/build/AliceO2Group/AliceO2/Detectors/TPC/reconstruction/src/CTFCoder.cxx">
+<area shape="rect" id="node2" href="$d9/de3/TPC_2reconstruction_2include_2TPCReconstruction_2CTFCoder_8h.html" title="TPCReconstruction/CTFCoder.h" alt="" coords="1264,124,1484,151"/>
+<area shape="rect" id="node6" href="$d8/d9c/TPC_2include_2DataFormatsTPC_2CTF_8h.html" title="DataFormatsTPC/CTF.h" alt="" coords="1412,199,1581,225"/>
+<area shape="rect" id="node10" href="$d4/de7/rans_8h.html" title="header for public api " alt="" coords="2503,363,2602,389"/>
+<area shape="rect" id="node34" href="$d2/d7d/CompressedClusters_8h.html" title="Container to store compressed TPC cluster data. " alt="" coords="1375,273,1591,315"/>
+<area shape="rect" id="node39" href="$d6/d31/DetID_8h.html" title="DetectorsCommonDataFormats\l/DetID.h" alt="" coords="694,437,922,479"/>
+<area shape="rect" id="node7" href="$da/d91/EncodedBlocks_8h.html" title="DetectorsCommonDataFormats\l/EncodedBlocks.h" alt="" coords="1804,273,2032,315"/>
+<area shape="rect" id="node31" href="$d4/d8f/StringUtils_8h.html" title="CommonUtils/StringUtils.h" alt="" coords="1976,363,2171,389"/>
+<area shape="rect" id="node33" href="$dd/da4/Logger_8h.html" title="Framework/Logger.h" alt="" coords="1705,363,1858,389"/>
+<area shape="rect" id="node11" href="$d0/d51/SymbolStatistics_8h.html" title="Structure to depict the distribution of symbols in the source message. " alt="" coords="2823,601,3002,628"/>
+<area shape="rect" id="node21" href="$dd/d74/Utilities_2rANS_2include_2rANS_2Encoder_8h.html" title="rANS/Encoder.h" alt="" coords="2141,445,2262,471"/>
+<area shape="rect" id="node28" href="$dc/d62/Utilities_2rANS_2include_2rANS_2Decoder_8h.html" title="rANS/Decoder.h" alt="" coords="2515,445,2638,471"/>
+<area shape="rect" id="node18" href="$d4/da1/helper_8h.html" title="various helper functions " alt="" coords="2276,676,2351,703"/>
+<area shape="rect" id="node23" href="$d8/dd9/SymbolTable_8h.html" title="Container for information needed to encode/decode a symbol of the alphabet. " alt="" coords="2854,527,2971,553"/>
+<area shape="rect" id="node24" href="$d2/d53/EncoderSymbol_8h.html" title="Structure containing all relevant information to encode a symbol. " alt="" coords="1877,601,2012,628"/>
+<area shape="rect" id="node26" href="$d5/d7a/Coder_8h.html" title="Stateless class for coding and decoding symbols using rANS. " alt="" coords="2169,527,2240,553"/>
+<area shape="rect" id="node27" href="$d7/d99/DecoderSymbol_8h.html" title="Structure containing all relevant information for decoding a rANS encoded symbol. ..." alt="" coords="2138,601,2276,628"/>
+<area shape="rect" id="node29" href="$dc/d3b/ReverseSymbolLookupTable_8h.html" title="Maps CDF back to source symbol &#45; needed for the decoder. " alt="" coords="2614,527,2830,553"/>
+<area shape="rect" id="node35" href="$df/d21/GPUCommonDef_8h.html" title="GPUCommonDef.h" alt="" coords="517,676,660,703"/>
+<area shape="rect" id="node38" href="$d2/d45/GPUCommonRtypes_8h.html" title="GPUCommonRtypes.h" alt="" coords="1381,363,1548,389"/>
+<area shape="rect" id="node36" href="$d5/d93/GPUCommonDefSettings_8h.html" title="GPUCommonDefSettings.h" alt="" coords="387,751,584,777"/>
+<area shape="rect" id="node37" href="$da/d5a/GPUCommonDefAPI_8h.html" title="GPUCommonDefAPI.h" alt="" coords="608,751,774,777"/>
+<area shape="rect" id="node43" href="$d9/d52/Common_2MathUtils_2include_2MathUtils_2Utils_8h.html" title="MathUtils/Utils.h" alt="" coords="384,527,515,553"/>
+<area shape="rect" id="node46" href="$dc/dcd/DataHeader_8h.html" title="Headers/DataHeader.h" alt="" coords="958,527,1128,553"/>
+<area shape="rect" id="node44" href="$d6/da2/GPUCommonMath_8h.html" title="GPUCommonMath.h" alt="" coords="512,601,665,628"/>
+<area shape="rect" id="node45" href="$d6/d84/MathConstants_8h.html" title="useful math constants " alt="" coords="178,601,436,628"/>
+<area shape="rect" id="node50" href="$d7/df8/Types_8h.html" title="MemoryResources/Types.h" alt="" coords="1303,601,1498,628"/>
+</map>

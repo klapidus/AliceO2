@@ -1,0 +1,22 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/DataFormats/Detectors/ITSMFT/common/src/CTF.cxx" name="/home/travis/build/AliceO2Group/AliceO2/DataFormats/Detectors/ITSMFT/common/src/CTF.cxx">
+<area shape="rect" id="node4" href="$dd/da4/Logger_8h.html" title="Framework/Logger.h" alt="" coords="144,288,297,315"/>
+<area shape="rect" id="node5" href="$dc/d8e/ITSMFT_2common_2include_2DataFormatsITSMFT_2CTF_8h.html" title="DataFormatsITSMFT/CTF.h" alt="" coords="297,124,488,151"/>
+<area shape="rect" id="node34" href="$d0/dc6/ITSMFT_2common_2include_2DataFormatsITSMFT_2ROFRecord_8h.html" title="DataFormatsITSMFT/ROFRecord.h" alt="" coords="1060,124,1299,151"/>
+<area shape="rect" id="node41" href="$df/de4/CompCluster_8h.html" title="Definition of the ITSMFT compact cluster. " alt="" coords="1578,206,1829,233"/>
+<area shape="rect" id="node8" href="$da/d91/EncodedBlocks_8h.html" title="DetectorsCommonDataFormats\l/EncodedBlocks.h" alt="" coords="316,199,544,240"/>
+<area shape="rect" id="node10" href="$d4/de7/rans_8h.html" title="header for public api " alt="" coords="381,288,479,315"/>
+<area shape="rect" id="node32" href="$d4/d8f/StringUtils_8h.html" title="CommonUtils/StringUtils.h" alt="" coords="503,288,698,315"/>
+<area shape="rect" id="node11" href="$d0/d51/SymbolStatistics_8h.html" title="Structure to depict the distribution of symbols in the source message. " alt="" coords="501,512,679,539"/>
+<area shape="rect" id="node22" href="$dd/d74/Utilities_2rANS_2include_2rANS_2Encoder_8h.html" title="rANS/Encoder.h" alt="" coords="859,363,980,389"/>
+<area shape="rect" id="node29" href="$dc/d62/Utilities_2rANS_2include_2rANS_2Decoder_8h.html" title="rANS/Decoder.h" alt="" coords="521,363,643,389"/>
+<area shape="rect" id="node19" href="$d4/da1/helper_8h.html" title="various helper functions " alt="" coords="1117,587,1191,613"/>
+<area shape="rect" id="node24" href="$d8/dd9/SymbolTable_8h.html" title="Container for information needed to encode/decode a symbol of the alphabet. " alt="" coords="714,437,831,464"/>
+<area shape="rect" id="node25" href="$d2/d53/EncoderSymbol_8h.html" title="Structure containing all relevant information to encode a symbol. " alt="" coords="1109,512,1244,539"/>
+<area shape="rect" id="node27" href="$d5/d7a/Coder_8h.html" title="Stateless class for coding and decoding symbols using rANS. " alt="" coords="1008,437,1079,464"/>
+<area shape="rect" id="node28" href="$d7/d99/DecoderSymbol_8h.html" title="Structure containing all relevant information for decoding a rANS encoded symbol. ..." alt="" coords="1320,512,1457,539"/>
+<area shape="rect" id="node30" href="$dc/d3b/ReverseSymbolLookupTable_8h.html" title="Maps CDF back to source symbol &#45; needed for the decoder. " alt="" coords="474,437,690,464"/>
+<area shape="rect" id="node35" href="$de/d64/RangeReference_8h.html" title="Class to refer to the 1st entry and N elements of some group in the continuous container. " alt="" coords="917,206,1197,233"/>
+<area shape="rect" id="node37" href="$d9/d80/InteractionRecord_8h.html" title="CommonDataFormat/Interaction\lRecord.h" alt="" coords="1221,199,1453,240"/>
+<area shape="rect" id="node36" href="$d2/d45/GPUCommonRtypes_8h.html" title="GPUCommonRtypes.h" alt="" coords="973,288,1140,315"/>
+<area shape="rect" id="node39" href="$d4/dc6/LHCConstants_8h.html" title="Header to collect LHC related constants. " alt="" coords="1165,288,1418,315"/>
+</map>

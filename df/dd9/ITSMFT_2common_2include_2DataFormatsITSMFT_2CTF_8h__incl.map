@@ -1,0 +1,15 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/DataFormats/Detectors/ITSMFT/common/include/DataFormatsITSMFT/CTF.h" name="/home/travis/build/AliceO2Group/AliceO2/DataFormats/Detectors/ITSMFT/common/include/DataFormatsITSMFT/CTF.h">
+<area shape="rect" id="node4" href="$da/d91/EncodedBlocks_8h.html" title="DetectorsCommonDataFormats\l/EncodedBlocks.h" alt="" coords="243,139,471,180"/>
+<area shape="rect" id="node6" href="$d4/de7/rans_8h.html" title="header for public api " alt="" coords="781,228,880,255"/>
+<area shape="rect" id="node28" href="$d4/d8f/StringUtils_8h.html" title="CommonUtils/StringUtils.h" alt="" coords="260,228,455,255"/>
+<area shape="rect" id="node30" href="$dd/da4/Logger_8h.html" title="Framework/Logger.h" alt="" coords="479,228,633,255"/>
+<area shape="rect" id="node7" href="$d0/d51/SymbolStatistics_8h.html" title="Structure to depict the distribution of symbols in the source message. " alt="" coords="799,452,977,479"/>
+<area shape="rect" id="node18" href="$dd/d74/Utilities_2rANS_2include_2rANS_2Encoder_8h.html" title="rANS/Encoder.h" alt="" coords="1041,303,1162,329"/>
+<area shape="rect" id="node25" href="$dc/d62/Utilities_2rANS_2include_2rANS_2Decoder_8h.html" title="rANS/Decoder.h" alt="" coords="599,303,721,329"/>
+<area shape="rect" id="node15" href="$d4/da1/helper_8h.html" title="various helper functions " alt="" coords="1028,527,1103,553"/>
+<area shape="rect" id="node20" href="$d8/dd9/SymbolTable_8h.html" title="Container for information needed to encode/decode a symbol of the alphabet. " alt="" coords="697,377,815,404"/>
+<area shape="rect" id="node21" href="$d2/d53/EncoderSymbol_8h.html" title="Structure containing all relevant information to encode a symbol. " alt="" coords="1367,452,1502,479"/>
+<area shape="rect" id="node23" href="$d5/d7a/Coder_8h.html" title="Stateless class for coding and decoding symbols using rANS. " alt="" coords="1103,377,1174,404"/>
+<area shape="rect" id="node24" href="$d7/d99/DecoderSymbol_8h.html" title="Structure containing all relevant information for decoding a rANS encoded symbol. ..." alt="" coords="1154,452,1291,479"/>
+<area shape="rect" id="node26" href="$dc/d3b/ReverseSymbolLookupTable_8h.html" title="Maps CDF back to source symbol &#45; needed for the decoder. " alt="" coords="356,377,572,404"/>
+</map>
